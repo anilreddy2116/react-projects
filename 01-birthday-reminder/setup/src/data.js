@@ -34,4 +34,10 @@ export default [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
   },
+  {
+    id:6,
+    name:'Anil Kumar reddy',
+    age:22,
+    image:'https://mail.google.com/mail/u/0?ui=2&ik=636f389d13&attid=0.1&permmsgid=msg-a:r-2282438311438912563&th=17e1e1a5dd4a6bab&view=att&disp=safe&realattid=17e1e1a340590ddf3821',
+  }
 ];
