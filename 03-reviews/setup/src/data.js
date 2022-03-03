@@ -35,6 +35,14 @@ const reviews = [
     text:
       'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
   },
+  {
+    id: 5,
+    name: 'Anil Kumar Reddy',
+    job: 'C1 | CMT',
+    image:'https://picsum.photos/id/237/200/300',
+    text:
+      'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
+  },
 ];
 
 export default reviews;
